@@ -1,0 +1,43 @@
+.blog {
+    background-color: #7858a6;
+    width: 100%;
+}
+
+#blog .title-blog {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#blog .blog-title {
+    margin-bottom: 20px;
+}
+
+#blog .blog-content {
+    position: relative;
+    left: 50px;
+    width: 95%;
+    background-color: #371b58;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#blog .blog-text {
+    margin: 20px 0;
+}
+
+#blog .blog-text strong {
+    margin: 10px;
+}
+
+#blog .blog-table {
+    margin-top: -20px;
+}
+
+#blog table {
+    width: 60%;
+    border-radius: 10px;
+}
+
+#blog td {
+    padding: 3px;
+}

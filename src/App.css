@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+section {
+    padding-top: 2rem;
+    overflow: hidden;
+    height: 95vh;
+    background-color: #371b58;
+    color: #fff;
+}
+
+.container {
+    /* background-color: violet; */
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translateY(-50%);
+    width: 90%;
+}

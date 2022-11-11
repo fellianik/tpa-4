@@ -1,0 +1,16 @@
+.project {
+    background-color: #5b4b8a;
+}
+
+#project h1 {
+    /* margin-right: 125px; */
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+#project hr {
+    width: 200px;
+    border-top: 1px solid white;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
